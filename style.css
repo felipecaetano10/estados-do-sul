@@ -1,0 +1,17 @@
+.modal {
+    margin: 0 auto;
+    width: 500px;
+    min-height: 350px;
+    border: 2px solid;
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#img {
+    max-width: 250px;
+    max-height: 200px;
+}
